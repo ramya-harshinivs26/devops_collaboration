@@ -1,6 +1,6 @@
 package com.example;
 
-import com.example.Main;
+import com.example.MainJ;
 import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
