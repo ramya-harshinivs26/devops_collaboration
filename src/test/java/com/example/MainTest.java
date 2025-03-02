@@ -9,7 +9,7 @@ public class MainTest {
 
     @Before // This runs before each test
     public void setUp() {
-        main = new Main();
+        main = new MainJ();
     }
 
     @Test
