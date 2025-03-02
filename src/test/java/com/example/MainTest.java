@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class MainTest {
-    private Main main;
+    private MainJ main;
 
     @Before // This runs before each test
     public void setUp() {
